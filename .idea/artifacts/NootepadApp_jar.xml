@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NootepadApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NootepadApp_jar</output-path>
+    <root id="archive" name="NootepadApp.jar">
+      <element id="module-output" name="NotepadApp" />
+    </root>
+  </artifact>
+</component>
