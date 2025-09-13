@@ -37,7 +37,7 @@ public class NotepadApp {
         JMenuBar menuBar = new JMenuBar();
         JMenu fileMenu = new JMenu("File");
         JMenuItem newItem = new JMenuItem("New");
-        JMenuItem openItem = new JMenuItem("Open...");
+        JMenuItem openItem = new JMenuItem("Open..");
         JMenuItem saveItem = new JMenuItem("Save");
         JMenuItem saveAsItem = new JMenuItem("Save As...");
         JMenuItem exitItem = new JMenuItem("Exit");
