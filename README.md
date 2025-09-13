@@ -1,9 +1,9 @@
 # NotepadApp (Java Swing)
 
-**Author:** Your Name  
+**Author:** Kavindu Hasaranga  
 **Java version:** Java 8 or later
 
-## What it is
+## What it this
 A simple Notepad-like desktop application built with Java Swing. Features:
 - New / Open / Save / Save As
 - Undo / Redo (basic)
